@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sif_info_collect_3656.wsgi:application

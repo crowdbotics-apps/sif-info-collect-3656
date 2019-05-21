@@ -1,0 +1,3 @@
+rootProject.name = 'sif_info_collect_3656'
+
+include ':app'
